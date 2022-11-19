@@ -96,7 +96,7 @@ double cosx(double e)
             od = od + 4;
         }
     }
-    return -num1;
+    return num1;
 }
 
 int main()
